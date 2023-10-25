@@ -1,7 +1,5 @@
 import axios from 'axios';
 
-
-
 class BarkipediaApi { 
 
     static token;
