@@ -1,6 +1,9 @@
 {
   "name": "barkipedia",
   "version": "0.1.0",
+  "engines": {
+    "node": "18.14.1"
+  },
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
