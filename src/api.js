@@ -13,7 +13,6 @@ class BarkipediaApi {
         axios.defaults.headers.common['x-access-token'] = token;
     }
    
-
     // method to signup a user
     static async signup(userData) {
         try {
