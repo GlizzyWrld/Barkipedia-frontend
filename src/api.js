@@ -4,7 +4,7 @@ class BarkipediaApi {
 
     static token;
 
-    static BASE_URL = 'http://localhost:3001';
+    static BASE_URL = 'https://barkipedia-backend-313c16ce5244.herokuapp.com';
 
 
     //method to save token and set default headers
