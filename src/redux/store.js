@@ -6,6 +6,7 @@ export default configureStore({
   reducer: {
     facts: factReducer,
     user: userReducer
-  }
+  },
+  devTools: false
 });
 
