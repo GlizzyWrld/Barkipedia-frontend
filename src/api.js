@@ -6,7 +6,6 @@ class BarkipediaApi {
 
     static BASE_URL = 'https://barkipedia-backend-313c16ce5244.herokuapp.com';
 
-
     //method to save token and set default headers
     static _saveToken(token) {
         localStorage.setItem('token', token);
