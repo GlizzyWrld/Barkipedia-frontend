@@ -121,6 +121,7 @@ class BarkipediaApi {
         }
     }
 
+    
     // // method to update user's profile info
     static async updateUser(username, updateData) {
         try {
